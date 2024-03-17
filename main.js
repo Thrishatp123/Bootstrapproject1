@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $(".qsn1").click(function(){
+        $(".ans1").slideToggle();
+    });
+    $(".qsn2").click(function(){
+        $(".ans2").slideToggle();
+    });
+    $(".qsn3").click(function(){
+        $(".ans3").slideToggle();
+    });
+    $(".qsn4").click(function(){
+        $(".ans4").slideToggle();
+    });
+})
